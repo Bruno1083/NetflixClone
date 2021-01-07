@@ -113,6 +113,13 @@ header nav a:hover{
     margin-top:5px;
 }
 
+.titulo {
+    color: #AAA;
+    font-weight: bold;
+    margin: 20px 0px 5px 2px;
+    font-size: 20px;
+}
+
 
 
 
